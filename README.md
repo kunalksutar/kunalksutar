@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Kunal Kiran Sutar, a Developer AI Engineer at CyberImmune. <br>I am into Data Structures and Algorithms(DSA), Competetive Programming(CP),<br>REST APIs, AI, ML, DL, RAG and Agentic AI  <br><br>Programming Languages : C, C++, Python, JavaScript, PostgresSQL<br>Database : PostgresSQL<br>Backend Frameworks : Node.js, Express.js<br>Other : Django, Git, GitHub, Docker <br><br>
+I am Kunal Kiran Sutar, a Developer AI Engineer at CyberImmune. <br>My interests and expertise are in Data Structures and Algorithms(DSA), Competetive Programming(CP),<br>REST APIs, AI, ML, DL, RAG and Agentic AI  <br><br>Programming Languages : C, C++, Python, JavaScript, PostgresSQL<br>Database : PostgresSQL<br>Backend Frameworks : Node.js, Express.js<br>Other : Django, Git, GitHub, Docker <br><br>
 
 
 ## 🌐 Socials:
