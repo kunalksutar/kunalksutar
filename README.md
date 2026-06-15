@@ -1,5 +1,5 @@
 # 💫 About Me
-I am Kunal Kiran Sutar, a Developer AI Engineer at CyberImmune. <br><br>My interests, <br> Skills: DSA, CP [1,967 Knight-rating @ [LeetCode](https://leetcode.com/u/randombunchofwords/)]<br>AI/ML Frameworks: AI, ML, DL, RAG, Agentic AI, MCP, MLflow<br>Programming Languages : C, C++, Python, JavaScript, PostgresSQL<br>Database : PostgresSQL, MongoDB, ChromaDB, Weaviate<br>Frameworks : Django, MERN Stack, Next.js, Flask, FastAPI <br>CI/CD: Git, GitHub, GitHub Actions, Docker <br>Cloud: AWS
+I am Kunal Kiran Sutar, a Developer AI Engineer at CyberImmune. <br><br>My interests, <br> Skills: DSA, CP [1,967 Knight-rating @ [LeetCode](https://leetcode.com/u/randombunchofwords/)]<br>AI/ML Frameworks: AI, ML, DL, RAG, Agentic AI, MCP, MLflow, n8n<br>Programming Languages : C, C++, Python, JavaScript, PostgresSQL<br>Database : PostgresSQL, MongoDB, ChromaDB, Weaviate<br>Frameworks : Django, MERN Stack, Next.js, Flask, FastAPI <br>CI/CD: Git, GitHub, GitHub Actions, Docker <br>Cloud: AWS
 
 
 ## 🌐 Socials:
