@@ -1,9 +1,22 @@
 # 💫 About Me
-I am Kunal Kiran Sutar, a Developer AI Engineer at CyberImmune. <br><br>My interests, <br> Skills: DSA, CP [1,967 Knight-rating @ [LeetCode](https://leetcode.com/u/randombunchofwords/)]<br>AI/ML Frameworks: AI, ML, DL, RAG, Agentic AI, MCP, MLflow, n8n<br>Programming Languages : C, C++, Python, JavaScript, PostgresSQL<br>Database : PostgresSQL, MongoDB, ChromaDB, Weaviate<br>Frameworks : Django, MERN Stack, Next.js, Flask, FastAPI <br>CI/CD: Git, GitHub, GitHub Actions, Docker <br>Cloud: AWS <br> Exploring Open Source
 
+I am Kunal Kiran Sutar, a Developer AI Engineer at CyberImmune. <br><br>
+
+My interests, <br>
+• 🧠 **Skills:** DSA, CP [1,967 Knight-rating @ [LeetCode](https://leetcode.com/u/randombunchofwords/)]<br>
+• 🤖 **AI/ML Frameworks:** AI, ML, DL, RAG, Agentic AI, MCP, MLflow, n8n<br>
+• 💻 **Programming Languages:** C, C++, Python, JavaScript, PostgreSQL<br>
+• 🗄️ **Database:** PostgreSQL, MongoDB, ChromaDB, Weaviate<br>
+• ⚙️ **Frameworks:** Django, MERN Stack, Next.js, Flask, FastAPI<br>
+• 🔄 **CI/CD:** Git, GitHub, GitHub Actions, Docker<br>
+• ☁️ **Cloud:** Amazon Web Services (AWS)<br>
+• 🌱 **Exploring:** Open Source
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaarshewees) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-sutar-532303208/) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-sutar-532303208/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://x.com/kunalksutar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram\&logoColor=white)](https://instagram.com/chaarshewees)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
